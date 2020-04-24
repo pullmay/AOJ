@@ -14,4 +14,3 @@ for i in range(1, m + 1):
 		dp[j] = min(dp[j], dp[j-c[i]] + 1)
 
 print(dp[n])
-
