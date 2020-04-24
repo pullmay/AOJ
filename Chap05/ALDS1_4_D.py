@@ -16,7 +16,7 @@ def check(P):
 
 # 二部探索
 left = 0
-right = 10000 * 10000
+right = 100000 * 10000
 while right - left > 1:
 	mid = (left + right) // 2
 	v = check(mid)
