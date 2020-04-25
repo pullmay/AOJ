@@ -8,6 +8,10 @@
 
 ### Part 2 [基礎編] プロコンのためのアルゴリズムとデータ構造
 
+#### 2章 アルゴリズムと計算量
+
+* [ALDS1_1_D: Maximum Profit](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1/ALDS1_1_D)
+
 #### 3章 初等的整列
 
 * [ALDS1_1_A: Insertion Sort](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1/ALDS1_1_A)
@@ -33,7 +37,7 @@
 #### 6章 再帰・分割統治法
 
 * △[ALDS1_5_A: Exhaustive Search](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/5/ALDS1_5_A)
-* △[ALDS1_5_C: Koch Curve](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/5/ALDS1_5_C)
+* [ALDS1_5_C: Koch Curve](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/5/ALDS1_5_C)
 
 #### 7章 高等的整列
 
@@ -47,9 +51,9 @@
 #### 8章 木
 
 * ☆[ALDS1_7_A: Roated Trees](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/7/ALDS1_7_A)
-* [ALDS1_7_B: Binary Trees](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/7/ALDS1_7_B)
-* [ALDS1_7_C: Tree Walk](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/7/ALDS1_7_C)
-* [ALDS1_7_D: Reconstruction of the Tree](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/7/ALDS1_7_D)
+* ☆[ALDS1_7_B: Binary Trees](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/7/ALDS1_7_B)
+* ☆[ALDS1_7_C: Tree Walk](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/7/ALDS1_7_C)
+* ☆[ALDS1_7_D: Reconstruction of the Tree](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/7/ALDS1_7_D)
 
 
 #### 9章 二部探索木
@@ -68,9 +72,9 @@
 
 #### 11章 動的計画法
 
-* ☆[ALDS1_10_A: Fibonacci Number](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/10/ALDS1_10_A)
-* ☆[ALDS1_10_C: Longest Common Subsequence](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/10/ALDS1_10_C)
-* ☆[ALDS1_10_B: Matrix Chain Multiplication](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/10/ALDS1_10_B)
+* [ALDS1_10_A: Fibonacci Number](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/10/ALDS1_10_A)
+* [ALDS1_10_C: Longest Common Subsequence](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/10/ALDS1_10_C)
+* [ALDS1_10_B: Matrix Chain Multiplication](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/10/ALDS1_10_B)
 
 #### 12章 グラフ
 
@@ -126,8 +130,8 @@
 
 #### 18章 整数論
 
-* ☆[ALDS1_1_C: Prime Numbers](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1/ALDS1_1_C)
-* ☆[ALDS1_1_B: Greatest Common Divisor](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1/ALDS1_1_B)
+* [ALDS1_1_C: Prime Numbers](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1/ALDS1_1_C)
+* [ALDS1_1_B: Greatest Common Divisor](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1/ALDS1_1_B)
 * [NTL_1_B: Power](https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1/NTL_1_B)
 
 #### 19章 ヒューリスティック探索
