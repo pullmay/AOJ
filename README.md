@@ -10,7 +10,7 @@
 
 #### 2章 アルゴリズムと計算量
 
-* [ALDS1_1_D: Maximum Profit](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1/ALDS1_1_D)
+* [ ] [ALDS1_1_D: Maximum Profit](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1/ALDS1_1_D)
 
 #### 3章 初等的整列
 
@@ -25,7 +25,7 @@
 * [ALDS1_3_A: Stack](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/3/ALDS1_3_A)
 * [ALDS1_3_B: Queue](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/3/ALDS1_3_B)
 * △[ALDS1_3_C: Doubly Linked List](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/3/ALDS1_3_C)
-* ☆[ALDS1_D_C: Areas on the Cross-Section Diagram](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/3/ALDS1_3_D)
+* [x] [ALDS1_D_C: Areas on the Cross-Section Diagram](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/3/ALDS1_3_D)
 
 #### 5章 探索
 
